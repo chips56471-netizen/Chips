@@ -1,9 +1,9 @@
 # Chips
 ```text
     ▄████████▄          ┌──────────────────────────────────────────┐
-  ▄████·███████▄       │  hey there! glad you stumbled in (^^)/             │
- ═════·══════·═══      │  full-stack web dev // curious tinkerer            │
- ██████████·█████      │  status: building, breaking & learning             │
+  ▄████·███████▄       │  hey there! glad you stumbled in (^^)/            │
+ ═════·══════·═══      │  full-stack web dev // curious tinkerer           │
+ ██████████·█████      │  status: building, breaking & learning            │
  ══·════╔════════      └──────────────────────────────────────────┘
   ▀████╔╝╔═╦ ╦╦╔═╗╔═╗
     ▀▀╔╝ ║  ╠═╣║╠═╝╚═╗
