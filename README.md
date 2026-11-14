@@ -1,13 +1,11 @@
 # Chips
 ```text
-    ▄████████▄          ┌──────────────────────────────────────────┐
-  ▄████·███████▄       │  hey there! glad you stumbled in (^^)/           │
- ═════·══════·═══      │  full-stack web dev // curious tinkerer          │
- ██████████·█████      │  status: building, breaking & learning           │
- ══·════╔════════      └──────────────────────────────────────────┘
-  ▀████╔╝╔═╦ ╦╦╔═╗╔═╗
-    ▀▀╔╝ ║  ╠═╣║╠═╝╚═╗
-          ╚═ ╩ ╩╩╩  ╚═╝
+ ██╗    ██╗           ┌──────────────────────────────────────────┐
+ ╚═╝    ╚██╗          │  hey there! glad you stumbled in (^^)/   │
+         ╚██╗         │  full-stack web dev // curious tinkerer  │
+         ██╔╝         │  status: building, breaking & learning   │
+ ██╗    ██╔╝          └──────────────────────────────────────────┘
+ ╚═╝    ╚═╝
 
 Hey, I'm Chips! (^^)/
 Welcome to my corner of the internet. If you're here, you probably like digging through source code, figuring out how things are wired together, or we crossed paths somewhere online. Either way—pull up a chair.
